@@ -21,7 +21,7 @@ repository               : "ahasan-github/ahasan-github.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile1c.jpg"
   name             : "Nazmul Ahasan"
   pronouns         : # example: "she/her"  
   bio              : "Database admin and Machine learning"
