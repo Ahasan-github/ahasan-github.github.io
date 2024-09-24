@@ -11,13 +11,14 @@ main:
     url: /portfolio/
   - title: "Publications"
     url: /publications/
-  - title: "Blog Posts"
+  - title: "Services"
     url: /blog posts/
-  #  - title: "Talks"
-  #   url: /talks/    
-
-  #  - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /talks/    
+  - title: "Blogs"
+    url: /talks/
+  - title: "Contacts"
+    url: /teaching/    
         
   # - title: "Blog Posts"
   #    url: /year-archive/
