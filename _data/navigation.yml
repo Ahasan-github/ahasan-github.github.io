@@ -5,10 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "CV"
-    url: /files/cv1.pdf
-  - title: " Portfolio"
+  - title: "Portfolio"
     url: /portfolio/
+  - title: " CV "
+    url: /files/cv1.pdf
   - title: "Publications"
     url: /publications/
   - title: "Services"
@@ -17,8 +17,8 @@ main:
     url: /talks/    
   - title: "Blogs"
     url: /talks/
-  - title: "Contacts"
-    url: /contacts/    
+  # - title: "Contacts"
+  # url: /contacts/    
         
   # - title: "Blog Posts"
   #    url: /year-archive/
