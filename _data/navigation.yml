@@ -11,14 +11,14 @@ main:
     url: /files/cv1.pdf
   - title: "Publications"
     url: /publications/
-  - title: "Services"
-    url: /blog posts/
-  - title: "Teaching"
-    url: /talks/    
-  - title: "Blogs"
-    url: /talks/
+  # - title: "Services"
+  #   url: /blog posts/
+  # - title: "Teaching"
+  #   url: /talks/    
+  # - title: "Blogs"
+  #   url: /talks/
   # - title: "Contacts"
-  # url: /contacts/    
+  #   url: /contacts/    
         
   # - title: "Blog Posts"
   #    url: /year-archive/
