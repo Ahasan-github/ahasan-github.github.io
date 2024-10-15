@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nazmul Ahasan"
+title: "Hi, I'm Nazmul Ahasan"
 author_profile: true
 redirect_from: 
   - /about/
