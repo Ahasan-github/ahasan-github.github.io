@@ -12,7 +12,7 @@ As a freelance DBA and data analyst, I work remotely. I really enjoy extracting 
 
 Transforming your data into valuable insights
 =====
-This website showcases several examples of my projects, and most of them include visualizations.
+This website showcases several examples of my projects, and most of them include <b>visualizations</b>.
 Therefore, I use Python, SPSS, Excel, and Power BI for data analysis projects. However, I prefer Python and Power BI for my daily work.
 I really enjoy extracting valuable information from data. This is something that I am truly passionate about.
 
