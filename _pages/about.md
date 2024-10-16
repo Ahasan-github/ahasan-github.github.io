@@ -21,6 +21,7 @@ I really enjoy extracting valuable information from data. This is something that
 I am passionate about constantly learning and am currently immersing myself in the field of machine learning. 
 
 If you have any projects or research related to these areas, I would be happy to assist you!
+
 <!-- Comments begin
 Getting started
 ======
