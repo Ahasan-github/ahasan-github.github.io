@@ -7,15 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I have experience as a data analyst and Oracle database administrator in Bangladesh, and my educational background is in computer science and engineering. 
+I have experience as a <b>data analyst</b> and <b>Oracle database administrator</b> in Bangladesh, and my educational background is in computer science and engineering. 
 As a freelance DBA and data analyst, I work remotely. I really enjoy extracting insights from data.
 
 Transforming your data into valuable insights
 =====
 This website showcases several examples of my projects, and most of them include <b>visualizations</b>.
-Therefore, I use Python, SPSS, Excel, and Power BI for data analysis projects. However, I prefer Python and Power BI for my daily work.
+Therefore, 
+I use Python, SPSS, Excel, and Power BI for data analysis projects. However, I prefer Python and Power BI for my daily work.
+
 I really enjoy extracting valuable information from data. This is something that I am truly passionate about.
 
+I am passionate about constantly learning and am currently immersing myself in the field of machine learning. 
+
+If you have any projects or research related to these areas, I would be happy to assist you!
 <!-- Comments begin
 Getting started
 ======
